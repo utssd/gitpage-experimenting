@@ -1,0 +1,15 @@
+title: Page of SSD
+description: SSD Personal Page
+show_downloads: true
+google_analytics:
+email: utssd@users.noreply.github.com
+github_username:  utssd
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
